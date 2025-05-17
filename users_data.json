@@ -1,0 +1,17 @@
+{
+    "hello": {
+        "password": "byebye",
+        "wins": 0,
+        "losses": 0
+    },
+    "Alice": {
+        "password": "1234",
+        "wins": 0,
+        "losses": 0
+    },
+    "Bob": {
+        "password": "5678",
+        "wins": 0,
+        "losses": 0
+    }
+}
